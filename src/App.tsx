@@ -1,7 +1,12 @@
 function App() {
   return (
     <div>
-      <h1>Logout</h1>
+      <h1>Login</h1>
+      <form>
+        <input type='text' placeholder='Username' />
+        <input type='password' placeholder='Password' />
+        <button type='submit'>Login</button>
+      </form>
     </div>
   );
 }
