@@ -6,8 +6,16 @@ function App() {
       <h3>Feature 2</h3>
       <h2>Task 1</h2>
       <h2>Task 2</h2>
+<<<<<<< HEAD
       <h2>태스크 3</h2>
       <h2>태스크 4</h2>
+=======
+      <h2>Task 3</h2>
+<<<<<<< HEAD
+>>>>>>> 1e8950f (feat: Task 3)
+=======
+      <h2>Task 4</h2>
+>>>>>>> 3917e01 (feat: Task 4)
     </div>
   );
 }
