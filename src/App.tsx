@@ -6,6 +6,7 @@ function App() {
       <h3>Feature 2</h3>
       <h2>Task 1</h2>
       <h2>Task 2</h2>
+      <h2>태스크 3</h2>
     </div>
   );
 }
