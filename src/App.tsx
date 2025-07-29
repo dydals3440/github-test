@@ -1,3 +1,6 @@
+import { UserButton } from './components/user-button';
+import { User } from './components/user';
+
 function App() {
   return (
     <div>
@@ -7,6 +10,8 @@ function App() {
         <input type='password' placeholder='Password' />
         <button type='submit'>Login</button>
       </form>
+      <User />
+      <UserButton />
     </div>
   );
 }
