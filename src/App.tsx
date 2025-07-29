@@ -1,3 +1,5 @@
+import { User } from './components/user';
+
 function App() {
   return (
     <div>
@@ -7,6 +9,7 @@ function App() {
         <input type='password' placeholder='Password' />
         <button type='submit'>Login</button>
       </form>
+      <User />
     </div>
   );
 }
