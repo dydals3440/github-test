@@ -1,3 +1,4 @@
+import { UserButton } from './components/user-button';
 import { User } from './components/user';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
         <button type='submit'>Login</button>
       </form>
       <User />
+      <UserButton />
     </div>
   );
 }
